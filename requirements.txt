@@ -1,0 +1,10 @@
+numpy
+pandas
+rasterio
+geopandas
+shapely
+matplotlib
+folium
+jupyter
+pytest
+dash
