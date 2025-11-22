@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+rioxarray
+rasterio
+numpy
+matplotlib
+pillow

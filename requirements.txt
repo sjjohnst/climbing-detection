@@ -8,3 +8,6 @@ folium
 jupyter
 pytest
 dash
+pystac
+pystac-client
+leafmap
